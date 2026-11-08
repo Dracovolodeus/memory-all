@@ -1,0 +1,8 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Dracovolodeus/memory-backend.git
+	branch = main
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/ShadowRaze-ru/max-bot-memory.git
+	branch = main
